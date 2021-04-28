@@ -2,7 +2,7 @@
 
 #### MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN - January 2021
 
-This repository shows the solution for the coding assignment during week 9. It shows a webpage with a maps of Boston's bus routes progressing. [AlekseiVashchenko1.github.io](https://AlekseiVashchenko1.github.io/bustracker/). 
+This repository shows the solution for the coding assignment during week 9. It shows a webpage with a maps of Boston's bus routes progressing. [AlekseiVashchenko1.github.io/bustracker](https://AlekseiVashchenko1.github.io/bustracker/). 
 
 ### License
 
